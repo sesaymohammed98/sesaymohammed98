@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @sesaymohammed98
-- 👀 I’m interested in learning computer science 
-- 🌱 I’m currently learning cs50 at Harvard Online Platform with Prof. David J. Malan
-- 💞️ I’m looking to collaborate with everyone that can help me along my way to success in my endeavour 
+- 👋 Hi, I’m MAS
 - 📫 How to reach me:
-- ☎️ +231-770014544 or
+- ☎️ (+231)-770-014-544 or
 - 📧 sesaymohammed98@gmail.com
 
 <!---
